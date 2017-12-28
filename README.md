@@ -1,12 +1,16 @@
 ## Gztc
 
-本项目使用 PHP 框架 Laravel 5.5.28 进行开发 
+[![Laravel Version](https://shield.with.social/cc/github/laravelio/portal/master.svg?style=flat-square)](https://packagist.org/packages/laravel/framework)
+[![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-5-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-5-boilerplate) 
+[![Latest Unstable Version](https://poser.pugx.org/rappasoft/laravel-5-boilerplate/v/unstable)](https://packagist.org/packages/rappasoft/laravel-5-boilerplate)
+
+本项目使用 PHP 框架 Laravel 5.5.28 进行开发。
 
 ![macbook](https://raw.githubusercontent.com/cong5/myPersimmon/master/screen.jpg)
 
 
 本项目使用 PHP 框架 [Laravel 5.5](https://doc.laravel-china.org/docs/5.5/) 进行开发。 
-系统后台使用 AdminLTE-2.3.0 框架
+系统后台基于 Laravel + Bootstrap + AdminLTE 实现的后台模板。
 
 [参考Demo](https://github.com/Cong5/myPersimmon) 基于Laravel 5.4 版本开发。
 
